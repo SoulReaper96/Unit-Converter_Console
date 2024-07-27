@@ -1,0 +1,14 @@
+G:\Studies\Unit_Converter\Unit_Converter\bin\Debug\net8.0\Unit_Converter.exe
+G:\Studies\Unit_Converter\Unit_Converter\bin\Debug\net8.0\Unit_Converter.deps.json
+G:\Studies\Unit_Converter\Unit_Converter\bin\Debug\net8.0\Unit_Converter.runtimeconfig.json
+G:\Studies\Unit_Converter\Unit_Converter\bin\Debug\net8.0\Unit_Converter.dll
+G:\Studies\Unit_Converter\Unit_Converter\bin\Debug\net8.0\Unit_Converter.pdb
+G:\Studies\Unit_Converter\Unit_Converter\obj\Debug\net8.0\Unit_Converter.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studies\Unit_Converter\Unit_Converter\obj\Debug\net8.0\Unit_Converter.AssemblyInfoInputs.cache
+G:\Studies\Unit_Converter\Unit_Converter\obj\Debug\net8.0\Unit_Converter.AssemblyInfo.cs
+G:\Studies\Unit_Converter\Unit_Converter\obj\Debug\net8.0\Unit_Converter.csproj.CoreCompileInputs.cache
+G:\Studies\Unit_Converter\Unit_Converter\obj\Debug\net8.0\Unit_Converter.dll
+G:\Studies\Unit_Converter\Unit_Converter\obj\Debug\net8.0\refint\Unit_Converter.dll
+G:\Studies\Unit_Converter\Unit_Converter\obj\Debug\net8.0\Unit_Converter.pdb
+G:\Studies\Unit_Converter\Unit_Converter\obj\Debug\net8.0\Unit_Converter.genruntimeconfig.cache
+G:\Studies\Unit_Converter\Unit_Converter\obj\Debug\net8.0\ref\Unit_Converter.dll
